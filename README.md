@@ -3,10 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
 [![GitHub stars](https://img.shields.io/github/stars/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
 
-## Sobre mí
-
-Soy Romel Alexis, ingeniero de sistemas. Me apasiona la tecnología y me encanta aprender cosas nuevas. En mi tiempo libre, disfruto leyendo y jugando videojuegos.
-
 **Contacto:**
 
 Si tienes alguna pregunta o comentario, no dudes en contactarme por correo electrónico a romelx23@gmail.com.
