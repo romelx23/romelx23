@@ -1,4 +1,4 @@
-![Banner Github](https://res.cloudinary.com/react-romel/image/upload/v1710797599/github/github-banner_fwnf0w.png)
+![Banner Github](https://res.cloudinary.com/react-romel/image/upload/v1710799936/github/github-banner_v2_duspyg.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
 [![GitHub stars](https://img.shields.io/github/stars/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
