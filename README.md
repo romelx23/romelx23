@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
 [![GitHub stars](https://img.shields.io/github/stars/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
-[![GitHub forks](https://img.shields.io/github/forks/bard-ai.svg?style=flat-square)](https://github.com/romelx23)
 
 ## Sobre mí
 
@@ -19,21 +18,12 @@ Si tienes alguna pregunta o comentario, no dudes en contactarme por correo elect
 * Habilidades blandas
 * Trabajo en equipo
 * Resolución de problemas
-
-**Ubicación:**
-
-Lima, Perú.
-
+  
 **Intereses:**
 
 * Tecnología
 * Ciencia
 * Idioma
-
-**Enlaces:**
-
-* Sitio web: [https://portafolio-quwpkygxw-romelx23.vercel.app](https://portafolio-quwpkygxw-romelx23.vercel.app/)
-* GitHub: [https://github.com/romelx23](https://github.com/romelx23)
 
 <!--
 **romelx23/romelx23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
